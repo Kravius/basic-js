@@ -15,6 +15,7 @@ function getEmailDomain(/* email */) {
   // remove line with error and write your code here
 }
 
+
 module.exports = {
   getEmailDomain
 };
